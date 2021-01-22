@@ -104,3 +104,8 @@ footer{
 .fix-footer {
     margin-bottom: 20%;
 }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #303036;
+  }
+}
