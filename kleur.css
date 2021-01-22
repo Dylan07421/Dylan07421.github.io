@@ -76,13 +76,10 @@ h2 {
     border: ridge;
     border-color: #ffd369;
   }
-  #Award{
-    position: absolute;
+  #Award{position: absolute;
     height: 35%;
     width: 30%;
-   
-    top: 120px; 
-    z-index: 2;
+     
   }
 
   a{
@@ -98,7 +95,7 @@ footer{
    text-align:center; 
    font-weight:bold;
    line-height:20px;
-   background-color: #222831;
+   background-color: #303036;
    border-top: ridge; 
    border-color:#eeeeee; 
    float: bottom;
@@ -106,5 +103,4 @@ footer{
 .fix-footer {
   position: absolute;
   margin-top: 400px;
-  with: 99%;
 }
