@@ -104,4 +104,5 @@ footer{
 .fix-footer {
   position: absolute;
   margin-top: 400px;
+  with: 100%;
 }
