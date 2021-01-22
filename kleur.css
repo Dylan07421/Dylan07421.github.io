@@ -76,10 +76,9 @@ h2 {
     border: ridge;
     border-color: #ffd369;
   }
-  #Award{position: absolute;
+  #Award{
     height: 35%;
     width: 30%;
-     
   }
 
   a{
