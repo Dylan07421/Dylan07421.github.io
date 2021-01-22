@@ -102,8 +102,5 @@ footer{
    float: bottom;
 }
 .fix-footer {
-  position: absolute;
-  bottom: 0;
-  background-color: #303036;
-  height: 2.5rem;
+ 
 }
