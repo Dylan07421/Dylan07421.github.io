@@ -102,5 +102,6 @@ footer{
    float: bottom;
 }
 .fix-footer {
-botom: 0;
+  position: absolute;
+  bottom: 0;
 }
