@@ -105,9 +105,5 @@ footer{
   margin-top: 40%;
   min-height: 100%;
   with: 100%;
-     position:absolute;
-  bottom:0;
-  left:0;
-  width:100%;
-  height:<length>;
+  
 }
