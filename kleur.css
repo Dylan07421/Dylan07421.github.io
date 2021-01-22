@@ -69,6 +69,7 @@ h2 {
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+    
   }
   img{ 
     height: 100%;
@@ -102,10 +103,6 @@ footer{
    float: bottom;
 }
 .fix-footer {
-    margin-bottom: 20%;
+    margin-bottom: 400px;
 }
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: #303036;
-  }
-}
+
